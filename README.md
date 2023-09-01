@@ -10,7 +10,7 @@
      <li> Github: skyss0fly </li>
     </ul>
   </head>
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 $𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 = <img align="center" src="https://komarev.com/ghpvc/?username=skyss0fly&color=blueviolet&style=plastic" alt = visitorcount"> </𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜></h2>
 
 <div align="center" width="50">
 
