@@ -4,7 +4,7 @@
 <h2> <a href="https://github.com/ZonaSky/">ZonaSky</a> </h2>
  <h2> <a href="https://github.com/PieMC-Dev/">PieMC</a> </h2> 
   <h2><a href="https://github.com/Mindful-Explorations/">Mindful Explorations</a> </h2>
-  <h2><a href="https://github.com/ArchevexLifesteal">Archevex</a></h2>
+  <h2><a href="https://github.com/ArchevexMC">Archevex</a></h2>
    <p> If you want to reach me! you can access me by these ways: </p>
    <ul>
      <li> Discord: skyss0fly#3428 </li>
